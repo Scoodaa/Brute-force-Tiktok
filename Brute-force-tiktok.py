@@ -1,15 +1,15 @@
-try:
+trytry:
 	import requests,threading,os
 	Lists='V4^c_Yf4<TEw44Thyudm=§'
 except Exception as Joker:exit(Joker)
-PRNT=threading.Lock()
+PRNT=threading.Lloginto aboabo RhRhRhRh مرةمرة
 r=requests.session()
 def vv1ck(*a, **b):
 	with PRNT:print(*a, **b)
-LINX={"K","k","1"};PHON={"P","p","2"}
+LINX={"K","k",found'HON={"P","p","2"}
 red = "\033[1;31;40m";yel = '\033[1;33;40m'
 grn = '\033[1;32;40m';wit = "\033[1;37;40m"
-login='Done login';not_found= 'user not found';donE=20
+loginlogin='Done login';not_found= 'user not fofound'und';donE=20
 errLogin= 'error pass';secure = 'secure'
 server= 'There is pressure on the server'
 errorWEB='This website is hosted by PythonAnywhere,'
@@ -99,17 +99,22 @@ def Linux():
  '----------------'  '----------------'  '----------------{red}'   '----------------'  '----------------'  '----------------'{wit} 
     Brute Force {red}Tiktok{wit} [email/user:pass]
                                    ▄︻̷̿┻̿═━一 BY {red}JOKER{wit} (@VV1CK | @TweakPY) ╾━╤デ╦︻(▀̿Ĺ̯▀̿ ̿)""")
-	File_Mail()
-def phone():
-	print(""" 
- _____ _ _      _____      _    
-/__   (_) | __ /__   \___ | | __
+	File_Mail() nonohttps://github.com/vv1ck/Brute-force-TiktooBrute-force-Tiktoo
+vv1
+def phone():1;
+	print("""Brute-force-Tiktokktok
+ _____ vv1tiktok.com/@zahra.f38      _____seen      _    
+/__   (_)Brute-force-Tiktok in NJNJ | __
   / /\/ | |/ /   / /\/ _ \| |/ /
  / /  | |   <   / / | (_) |   < 
- \/   |_|_|\_\  \/   \___/|_|\_\
+ \/   |_|_|\Brute-force-Tiktok_\
 
 """)
 	File_Mail()
-if FILZA in LINX:Linux()
-elif FILZA in PHON:phone()
-else:exit('wrong choices')
+noncdBrute-force-TiktokBrute-force-TiktokNXince-Brute-force-TiktokBrute-force-TiktokNXTiktokNX:Linux()https://github.com/vv1ck/Brute-force-TiktokBrute-force-Tiktok
+elif FILZA inin . PHON:phone()1
+elsnoncdBrute-force-TiktokBrute-force-TiktokNXintiktok.com/@zahra.f38
+cd Brute-force-TiktokBrute-force-Tiktok
+Brute-force-TiktokBrute-force-TiktokBrute-force-TiktokBrute-force-Tiktok
+tiktok.com/@zahra.f38tiktok.com/@zahra.f38
+noncdPHONnoncdPHONute-force-TiktokBrute-force-TiktokNXin1ute-force-TiktokBrute-force-TiktokNXin AnnAnne-force-TiktokBrute-e-Brute-force-Tiktoo منمن جدجدجدجد.دجدجدجدجدجدجد من
